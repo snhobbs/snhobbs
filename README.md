@@ -1,6 +1,6 @@
-+ [maskset.net](https://maskset.net)
-+ [hobbs-eo.com](https://hobbs-eo.com)
-+ [electrooptical.net](https://electrooptical.net)
++ Blog: [maskset.net](https://maskset.net)
++ Photoreceiver & ElectroOptics Device Manufacturer & Licenser: [hobbs-eo.com](https://hobbs-eo.com)
++ Enegineering Consulting & Design: [electrooptical.net](https://electrooptical.net)
 
 <!---
 snhobbs/snhobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
