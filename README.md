@@ -1,5 +1,5 @@
-+ Made-to-Measure test jigs: [TheJigsApp](www.thejigsapp.com)
-+ Blog: [maskset.net](https://maskset.net)
++ Made-to-Measure test jigs: [TheJigsApp](https://www.thejigsapp.com)
++ Blog: [maskset.net](https://www.maskset.net)
 + Photoreceiver & ElectroOptics Device Manufacturer & Licenser: [hobbs-eo.com](https://hobbs-eo.com)
 + Engineering Consulting & Design: [electrooptical.net](https://electrooptical.net)
 
